@@ -1,5 +1,13 @@
 # Where to Meet — Social Platform for Chatting, Matching, and Event Planning
-
+![Next.js](https://img.shields.io/badge/Next.js-14.0.4-black?logo=next.js)
+![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.6-38B2AC?logo=tailwind-css)
+![NextAuth](https://img.shields.io/badge/NextAuth-5.0.0--beta.4-000000?logo=auth0)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-0.29.1-3E7EFF?logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8.11.3-336791?logo=postgresql)
+![Pusher](https://img.shields.io/badge/Pusher-5.2.0-300D4F?logo=pusher)
+![UploadThing](https://img.shields.io/badge/UploadThing-6.1.0-4B5563)
+![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-2.19.2-4285F4?logo=googlemaps)
 ## Introduction
 
 **Tech Stack**  
